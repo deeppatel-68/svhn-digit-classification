@@ -39,15 +39,3 @@ Digit recognition is a common real-world computer vision task used in address pa
 - `svhn_test.mat` — test dataset
 - `cnn_model_architecture.png` — model architecture image, optional
 
-## How to Run on Kaggle
-
-1. Create a new Kaggle Dataset.
-2. Upload `svhn_train.mat`, `svhn_validation.mat`, and `svhn_test.mat`.
-3. Create a new Kaggle Notebook.
-4. Import or copy the notebook `svhn_digit_classification_project.ipynb`.
-5. Click **Add Data** and attach your uploaded SVHN dataset.
-6. Enable GPU acceleration if available.
-7. Run all notebook cells.
-8. Save and publish the notebook.
-
-This project is designed to show practical machine learning workflow ability rather than just final model accuracy. It includes the full workflow from dataset loading and preprocessing through to baseline comparison, deep learning model training, evaluation, visualisation, and model export.
