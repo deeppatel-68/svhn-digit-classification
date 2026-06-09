@@ -1,8 +1,7 @@
 # SVHN Digit Classification: SVM Baseline vs Deep CNNs
 
-This is a portfolio-ready computer vision project that classifies real-world digit images from the Street View House Numbers (SVHN) dataset.
 
-The project compares a traditional machine learning baseline against deep learning models:
+This project compares a traditional machine learning baseline against deep learning models:
 
 1. Support Vector Machine (SVM) using flattened image features
 2. Deep Convolutional Neural Network (DCNN)
