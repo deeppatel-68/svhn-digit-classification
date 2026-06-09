@@ -43,14 +43,4 @@ Digit recognition is a common real-world computer vision task used in address pa
 7. Run all notebook cells.
 8. Save and publish the notebook.
 
-## Suggested Kaggle Title
-
-`SVHN Digit Classification: SVM vs Deep CNNs`
-
-## Suggested Kaggle Subtitle
-
-`Comparing a traditional SVM baseline with convolutional neural networks and data augmentation for real-world digit image classification.`
-
-## Portfolio Positioning
-
 This project is designed to show practical machine learning workflow ability rather than just final model accuracy. It includes the full workflow from dataset loading and preprocessing through to baseline comparison, deep learning model training, evaluation, visualisation, and model export.
