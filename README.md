@@ -19,18 +19,6 @@ View the full runnable notebook on Kaggle:
 
 Digit recognition is a common real-world computer vision task used in address parsing, document processing, logistics, and automated data entry. SVHN is more challenging than clean handwritten digit datasets because the images are collected from real street-view scenes and can include noise, lighting variation, imperfect cropping, and background clutter.
 
-## Skills Demonstrated
-
-- Computer vision classification
-- TensorFlow/Keras model development
-- CNN architecture design
-- Data augmentation
-- Baseline modelling with scikit-learn
-- Model comparison and evaluation
-- Confusion matrix analysis
-- Failure case analysis
-- Kaggle notebook publishing
-
 ## Files
 
 - `svhn_digit_classification_project.ipynb` — main Kaggle notebook
