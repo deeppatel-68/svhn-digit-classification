@@ -8,6 +8,13 @@ The project compares a traditional machine learning baseline against deep learni
 2. Deep Convolutional Neural Network (DCNN)
 3. DCNN with Keras image data augmentation
 
+## Live notebook
+
+View the full runnable notebook on Kaggle:
+
+[Open Kaggle Notebook](https://www.kaggle.com/code/deeppatel68/svhn-digit-classification-svm-vs-deep-cnns)
+
+
 ## Project Motivation
 
 Digit recognition is a common real-world computer vision task used in address parsing, document processing, logistics, and automated data entry. SVHN is more challenging than clean handwritten digit datasets because the images are collected from real street-view scenes and can include noise, lighting variation, imperfect cropping, and background clutter.
